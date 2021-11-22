@@ -6,11 +6,11 @@
 
 Total number of employees who have title was calculated and then calcutaion was done for getting counts of employees who are elligible for retirement.
 
- ![Deliverable_1_a](Pewlett-Hackard-Analysis/Deliverable_1_a.PNG)
+![Deliverable_1_a](Pewlett-Hackard-Analysis/Deliverable_1_a.PNG)
 
-![Deliverable_1_b](Pewlett-Hackard-Analysis/Deliverable_1_b.png)
+![Deliverable_1_b](Pewlett-Hackard-Analysis/Deliverable_1_b.PNG)
  
-![Deliverable_1_c](Pewlett-Hackard-Analysis/Deliverable_1_b.png)
+![Deliverable_1_c](Pewlett-Hackard-Analysis/Deliverable_1_b.PNG)
 
 1- Around 90,398 employees meet the retirement age timeline
 
