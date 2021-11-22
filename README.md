@@ -10,7 +10,7 @@ Total number of employees who have title was calculated and then calcutaion was 
 
 ![Deliverable_1_b](Pewlett-Hackard-Analysis/Deliverable_1_b.png)
  
- ![Deliverable_1_c](Pewlett-Hackard-Analysis/Deliverable_1_b.png)
+![Deliverable_1_c](Pewlett-Hackard-Analysis/Deliverable_1_b.png)
 
 1- Around 90,398 employees meet the retirement age timeline
 
@@ -24,11 +24,11 @@ Total number of employees who have title was calculated and then calcutaion was 
 1761	"Assistant Engineer"
 2	    "Manager"
 
- ![Deliverable_1_d](Pewlett-Hackard-Analysis/Deliverable_1_d.PNG)
+![Deliverable_1_d](Pewlett-Hackard-Analysis/Deliverable_1_d.PNG)
 
 3- Total number of mentorship elligble program equals around 1549
 
- ![Deliverable_2_a](Pewlett-Hackard-Analysis/Deliverable_2_a.PNG)
+![Deliverable_2_a](Pewlett-Hackard-Analysis/Deliverable_2_a.PNG)
 
 4-If only the birthdate is considered and not to see if employee is current then the eligibility count come to 1940
 
