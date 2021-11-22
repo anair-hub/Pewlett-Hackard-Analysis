@@ -12,7 +12,7 @@ Total number of employees who have title was calculated and then calcutaion was 
   ![Deliverable_1_b](Resources/Deliverable_1_b.PNG)
   
  
-  ![Deliverable_1_c](Resources/Deliverable_1_b.PNG)
+  ![Deliverable_1_c](Resources/Deliverable_1_c.PNG)
   
 
 1- Around 90,398 employees meet the retirement age timeline
