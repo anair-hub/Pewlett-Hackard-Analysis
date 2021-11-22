@@ -6,7 +6,7 @@
 
 Total number of employees who have title was calculated and then calcutaion was done for getting counts of employees who are elligible for retirement.
 
-![Deliverable_1_a](Pewlett-Hackard-Analysis/Deliverable_1_a.PNG)
+ ![Deliverable_1_a](Pewlett-Hackard-Analysis/Deliverable_1_a.PNG)
 
 ![Deliverable_1_b](Pewlett-Hackard-Analysis/Deliverable_1_b.png)
  
